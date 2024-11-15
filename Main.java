@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         // Define file paths and number of rows to read
-        String csvFile = "/Users/mohammedalgumlas/Desktop/CSC212dataset.csv"; // Replace with your file path
-        String stopWordsFile = "/Users/mohammedalgumlas/Downloads/data/stop.txt"; // Replace with your stop words file path
+        String csvFile = "CSC212dataset.csv"; // Replace with your file path
+        String stopWordsFile = "stop.txt"; // Replace with your stop words file path
         int rowsToRead = 50; // Number of rows you want to read
 
         // Create an instance of CSVReader
